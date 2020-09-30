@@ -1,7 +1,7 @@
 # Azure for Gophers
 
 <img src="azure-gophers.png" width="250">
-*Image credit [Ashley McNamara](https://github.com/ashleymcnamara/gophers)*
+*[Image credit [Ashley McNamara](https://github.com/ashleymcnamara/gophers)*
 
 ## Slides
 
